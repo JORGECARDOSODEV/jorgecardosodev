@@ -6,7 +6,7 @@ Buscando novos horizontes, comecei a dedicar-me ao aprimoramento de minhas habil
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jornadadev2803&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgecardosodev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
