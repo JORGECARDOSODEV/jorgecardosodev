@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 
 ###### Sobre o Jorge Cardoso
-Sempre interessado em inovação, iniciei minha transição para a área de tecnologia, a partir da coordenação da área de TI, em uma agência de publicidade. Com um olho no peixe e outro no gato, amante da tecnologia, comecei minha jornada como desenvolvedor web, utilizando Wordpress.
+Sempre interessado em inovação, iniciei minha transição para a área de tecnologia, a partir da coordenação da área de TI, em uma agência de publicidade. Com um olho no peixe e outro no gato, amante da tecnologia, comecei minha jornada como desenvolvedor web utilizando Wordpress.
 Buscando novos horizontes, comecei a dedicar-me ao aprimoramento de minhas habilidades como Desenvolvedor Front-end.
 
 ### Detalhes
