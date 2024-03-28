@@ -5,16 +5,16 @@ Sempre interessado em inovação, iniciei minha transição para a área de tecn
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgecardosodev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgecardosodev&show_icons=true&theme=dark)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=jogobaloes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=jogobaloes&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=landingtomjazz&theme=dark)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecardosodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecardosodev&layout=compact)
 
 ### Contatos
 
