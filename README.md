@@ -9,10 +9,10 @@ Sempre interessado em inovação, iniciei minha transição para a área de tecn
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=jogobaloes&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=landingtomjazz&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=appvideo&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=appvideo&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=jogobaloes&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=landingtomjazz&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=appvideo&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=appvideo&theme=dark)]
 
 ### Linguagens utilizadas
 
