@@ -10,7 +10,7 @@ Sempre interessado em inovação, iniciei minha transição para a área de tecn
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=jogobaloes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=landingtomjazz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jorgecardosodev&repo=landingtomjazz&theme=dark)
 
 ### Linguagens utilizadas
 
